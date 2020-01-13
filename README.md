@@ -1,6 +1,6 @@
 # Vue Chrome Extension Boilerplate
 
-![Vue-Chrome-Extension-Boilerplate](https://myhappyagency.com/blog/wp-content/uploads/2020/01/hapi-node.png)
+![Vue-Chrome-Extension-Boilerplate](https://myhappyagency.com/blog/wp-content/uploads/2020/01/vgc.png)
 
 Simple Vue Chrome Extension Boilerplate.
 
