@@ -4,17 +4,6 @@
 
 Simple Vue Chrome Extension Boilerplate.
 
-## Installation
-
-Install dependencies:
-```
-npm i
-```
-Serve project:
-```
-npm run serve
-```
-
 ## Version
 
 We use [SemVer](http://semver.org/) for versioning.
